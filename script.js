@@ -76,3 +76,7 @@ for(var i =0;i<number.length;i++){
 		}
 	});
 } 
+
+
+//import java.text.DecimalFormat;
+//import java.util.ArrayList;
